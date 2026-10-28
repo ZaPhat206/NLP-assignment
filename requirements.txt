@@ -1,0 +1,11 @@
+# Python 3.11; install the CUDA build of PyTorch first from
+# https://pytorch.org/get-started/locally/ (Windows / Pip / CUDA).
+torch
+datasets
+scikit-learn
+numpy
+pandas
+matplotlib
+ipykernel
+ipywidgets
+tqdm
